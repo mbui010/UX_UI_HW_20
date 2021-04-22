@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Poppins', sans-serif;
+  src: url(Poppins-regular.ttf);
+}
+
+div {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+margin: 0px 100px;
+font-family:'Poppins', sans-serif; ;
+}
+h1 {
+  text-align: center;
+  font-size: 28px;
+  color:#265768;
+  margin-top: 20px;
+  
+}
+.jumbotron {
+    background-image: url("../images/jumbo\ nsa.png");
+    background-size: 100% 100%;
+    height:350px;
+    display: flex; 
+    margin-top: 30px;
+}
+
+.card {
+  background-color:#80c4cb;
+}
+.card-text {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+}
+
+.display-4 {
+  font-size: 24px;
+  color: #265768;
+  margin-top: 30px;
+}
+.lead{
+  font-size: 14px;
+  background-color: aliceblue;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.accordion{
+  margin-top: 30px;
+}
+.set{
+  background-color: white;
+}
+.headingOne {
+  color: #80c4cb; 
+}
+.testImg{ 
+  display: flex;
+  width: 600px;
+  margin:0 auto; 
+}
+.siteMap {
+  display: flex;
+  width: 500px;
+  margin: 0 auto;
+}
+.nsaFont{
+  display: flex;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.wireframeImg {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #265768;
+  text-align: center;
+}
+.nsaW {
+  display: flex;
+  width: 650px;
+  margin: 0 auto;
+}
+.prototypeImg {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #265768;
+  text-align: center;
+}
+.nsaP {
+  display: flex;
+  width: 650px;
+  margin: 0 auto;
+}
+.nsaV {
+  display: flex;
+  margin-top: 20px;
+  width: 700px;
+  margin: 0 auto;
+ 
+}
+
+
+
+ 
+
+
+
